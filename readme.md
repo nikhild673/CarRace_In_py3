@@ -39,4 +39,6 @@ Workflow:
 
 Image samples of the car game:
 
+![screenshot 138](https://user-images.githubusercontent.com/25434144/42673107-69ba7dc0-8687-11e8-9756-e995d03aaff0.png)
+![screenshot 139](https://user-images.githubusercontent.com/25434144/42673108-6a35d51a-8687-11e8-8425-bd4bf815f66c.png)
 
