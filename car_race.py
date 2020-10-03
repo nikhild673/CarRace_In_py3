@@ -1,6 +1,7 @@
 import pygame as pg
 import time
 import random
+import os
 
 pg.init()
 
@@ -45,7 +46,7 @@ def message_display(text):
     time.sleep(2)
     gameloop()
 
-def crash():
+def crashh():
 
     pg.mixer.music.stop()
     pg.mixer.Sound.play(crash_sound)
@@ -216,7 +217,7 @@ def gameloop():
 
         if y < enemy_starty + enemy_hight:
             if x+car_width > enemy_startx and x < enemy_startx + enemy_width:
-                crash()
+                crashh()
 
 
         pg.display.update()
